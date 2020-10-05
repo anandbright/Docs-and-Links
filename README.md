@@ -1,4 +1,4 @@
-# This is a repo for all the documents and technical artcles links:
+# This is a repo for all the documents and technical article links:
 
 AZURE:
 
