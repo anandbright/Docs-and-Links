@@ -2,6 +2,6 @@
 
 AZURE:
 
+Contains everythinf related to Microsoft Azure including certification guide and hand notes for impotant points.
 
-AZURE ARCHITECT EXPERT CERTIFICATION:
 
